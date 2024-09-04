@@ -1,6 +1,28 @@
 # Numerator
 
-Code for paper "NUMERATOR: Multi-hop Numerical Reasoning on Knowledge Graphs"
+This repository contains the code implementation for the paper '*NUMERATOR: Multi-hop Numerical Reasoning on Knowledge
+Graphs*', which explores the numerical attribute prediction on Knowledge graphs.
+
+![image](numerator.png)
+
+## Project Structure
+```
+├── data/               # Directory for storing datasets
+├── output/            # Directory for experiment results
+├── README.md           # Project documentation
+├── models.py           # Model implementation
+├── utils.py            # Utility functions
+└── main.py             # Training script
+```
+
+## Experiment Environment
+
+- python 3.9
+
+- pytorch 2.1+
+
+- torch-geometric 2.4.0
+
 
 ## Download Datasets
 
