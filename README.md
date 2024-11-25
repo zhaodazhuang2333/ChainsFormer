@@ -1,4 +1,4 @@
-# Numerator
+# ChainsFormer
 
 This repository contains the code implementation for the paper '*Numerical Reasoning on Knowledge Graphs: From a Chain Perspective*', which explores the numerical attribute prediction on Knowledge graphs.
 
