@@ -1,7 +1,6 @@
 # Numerator
 
-This repository contains the code implementation for the paper '*NUMERATOR: Multi-hop Numerical Reasoning on Knowledge
-Graphs*', which explores the numerical attribute prediction on Knowledge graphs.
+This repository contains the code implementation for the paper '*Numerical Reasoning on Knowledge Graphs: From a Chain Perspective*', which explores the numerical attribute prediction on Knowledge graphs.
 
 ![image](numerator.png)
 
