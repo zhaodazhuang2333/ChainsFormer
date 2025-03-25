@@ -117,7 +117,6 @@ def main(args):
     train_indices = all_indices[0: len(train_query)]
     val_indices = all_indices[len(train_query): len(train_query) + len(val_query)]
     test_indices = all_indices[len(train_query) + len(val_query):]
-    val_indices = test_indices
 
     # pdb.set_trace()
     train_indices = np.random.permutation(train_indices)
